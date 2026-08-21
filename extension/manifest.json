@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Sql-format \u2014 Format and beautify raw SQL queries with",
+  "version": "1.0.0",
+  "description": "Format and beautify raw SQL queries with standard uppercase keywords offline.",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "permissions": [],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Sql-format"
+  }
+}
